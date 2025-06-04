@@ -17,7 +17,7 @@ An interactive web application that leverages **Google's Gemini 2.0 Flash** mode
 
 ### 🚀 Getting Started
 
-You can the project [HERE](image-story-weaver.streamlit.app). Follow these steps to set up and run the project locally.
+You can the project [HERE](image-story-weaver.streamlit.app) image-story-weaver.streamlit.app. Follow these steps to set up and run the project locally.
 
 #### Prerequisites
 
